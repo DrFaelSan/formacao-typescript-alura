@@ -75,3 +75,44 @@
 - Ativação do strictNullChecks
 - Como suprimir erros, quando fizer sentido, resultantes do strictNullChecks
 - Benefícios do strictNullChecks no controle do fluxo da sua aplicação
+
+# Parte 3 - Final
+
+01 - Entendendo Decorators
+
+- Introdução e estrutura do projeto
+- Requisitos não funcionais
+- Decorator de método
+- Logar tempo de execução com decorator
+
+02 - Decorators de métodos
+
+- Decorator com parâmetro
+- Criação de um decorator de inspeção
+- Ordem de execução dos decorators
+- Simplificação no design de decorators
+- Portabilidade de funcionalidade antiga para decorators
+
+03 - Decorator de propriedade
+
+- Como evitar código duplicado
+- Decorator de propriedade
+- Criação dinâmica de getters
+- O uso de Object.defineProperty
+- Cache de decorators
+
+04 - API externa e interface
+
+- API externa
+- Consumindo API externa
+- Definindo uma interface para a API
+- Isolando o acesso à API em um serviço
+
+05 - Mais sobre interface
+
+- Chega de múltiplos console.log
+- Aplicação prática do Polimorfismo
+- Interface de método
+- Evitando importar negociações duplicadas
+- Estendendo interfaces
+- Geração de sourmaps e debug da aplicação no navegador
